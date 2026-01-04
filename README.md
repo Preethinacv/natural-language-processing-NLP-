@@ -1,5 +1,5 @@
 # Kindle Review Sentiment Analysis
-## Description
+
 This project analyzes Amazon Kindle reviews and predicts the sentiment (positive or negative) based on the review text and rating. 
 It demonstrates classical NLP techniques such as Bag-of-Words (BOW), TF-IDF, and Word2Vec embeddings combined with machine learning models like Naive Bayes and Logistic Regression.
 
