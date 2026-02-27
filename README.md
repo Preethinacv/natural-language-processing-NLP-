@@ -4,7 +4,8 @@ This project analyzes Amazon Kindle reviews and predicts the sentiment (positive
 It demonstrates classical NLP techniques such as Bag-of-Words (BOW), TF-IDF, and Word2Vec embeddings combined with machine learning models like Naive Bayes and Logistic Regression.
 
 Understanding customer sentiment from reviews helps businesses improve products and services. 
-This project also serves as an NLP and text classification learning exercise for practical applications.
+
+This project also serves as an Natural Language Processing(NLP) and text classification learning exercise for practical applications.
 ## Methodology
 
 1. **Data Preprocessing**
