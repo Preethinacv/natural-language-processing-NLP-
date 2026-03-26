@@ -27,6 +27,8 @@ This project also serves as an Natural Language Processing(NLP) and text classif
    - Accuracy
    - Confusion matrix
    - Comparison of methods (BOW vs TF-IDF vs Word2Vec)
+  
+     
 
 ## Installation
 
