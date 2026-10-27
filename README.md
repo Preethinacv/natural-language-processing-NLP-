@@ -6,6 +6,8 @@ It demonstrates classical NLP techniques such as Bag-of-Words (BOW), TF-IDF, and
 Understanding customer sentiment from reviews helps businesses improve products and services. 
 
 This project also serves as an Natural Language Processing(NLP) and text classification learning exercise for practical applications.
+
+
 ## Methodology
 
 1. **Data Preprocessing**
@@ -27,9 +29,7 @@ This project also serves as an Natural Language Processing(NLP) and text classif
    - Accuracy
    - Confusion matrix
    - Comparison of methods (BOW vs TF-IDF vs Word2Vec)
-  
      
-
 ## Installation
 
 Clone the repository and install the required Python packages:
